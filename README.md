@@ -10,4 +10,4 @@
 
 - :zap: In my free time, I solve problems in leetcode and learn something new in programming.
 
-- :mailbox:Contact with me : [@aspia_ru]([http://t-do.ru/aspia_ru](https://t.me/cd_xxx) "Telegram channel")
+- :mailbox: Contact with me : [@aspia_ru](https://t.me/cd_xxx) "Telegram channel")

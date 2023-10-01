@@ -10,4 +10,4 @@
 
 - :zap: In my free time, I solve problems in leetcode and learn something new in programming.
 
-- :mailbox: Contact with me (https://t.me/cd_xxx) [![channel icon](https://patrolavia.github.io/telegram-badge/follow.png)](https://patrolavia.github.io/telegram-badge/follow.png)
+- :mailbox: Contact with me [![channel icon](https://patrolavia.github.io/telegram-badge/follow.png)](https://t.me/cd_xxx)

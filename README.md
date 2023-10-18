@@ -24,7 +24,7 @@
 
 ---
 
-### Также я решаю алгоритмические задачи, когда есть свободное время. CodeWars | Leetcode
+### I also solve algorithmic problems when I have free time. CodeWars | Leetcode
 <h2 align="center">CodeWars</h2>
 
 [![codewars](https://www.codewars.com/users/me%3F/badges/small)](https://www.codewars.com/users/me%3F/badges/small)

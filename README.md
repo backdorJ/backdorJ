@@ -25,4 +25,4 @@
 ---
 
 ### Также я решаю алгоритмические задачи на досуге CodeWars | Leetcode
-[![codewars](https://www.codewars.com/users/me%3F/badges/large)](https://www.codewars.com/users/me%3F/badges/large)
+[![codewars](https://www.codewars.com/users/me%3F/badges/small)](https://www.codewars.com/users/me%3F/badges/small)

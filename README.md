@@ -25,5 +25,7 @@
 ---
 
 ### Также я решаю алгоритмические задачи, когда есть свободное время. CodeWars | Leetcode
-[![codewars](https://www.codewars.com/users/me%3F/badges/small)](https://www.codewars.com/users/me%3F/badges/small)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DamirNabiullin)](https://github.com/madushadhanushka/github-readme)
+<h2 align="center">[![codewars](https://www.codewars.com/users/me%3F/badges/small)](https://www.codewars.com/users/me%3F/badges/small)</h2>
+<p align="right">
+    <h2 align="center">[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DamirNabiullin)](https://github.com/madushadhanushka/github-readme)</h2>
+</p>

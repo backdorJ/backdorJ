@@ -12,7 +12,7 @@
 
 - :mailbox: Contact with me [![channel icon](https://patrolavia.github.io/telegram-badge/follow.png)](https://t.me/cd_xxx)
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp

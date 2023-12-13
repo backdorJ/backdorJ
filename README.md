@@ -6,7 +6,7 @@
 
 - :telescope: I study at KFU ITIS, study programming at the Faculty of Software Engineering, and take a course in corporate development on .NET
 
-- :seedling: I know and understand C# HTML CSS, ASP.NET CORE MVC, ASP.NET CORE WEB API , EntityFramework, Postgresql, Library AutoMapper, CQRS
+- :seedling: I know and understand C# HTML CSS, ASP.NET CORE MVC, ASP.NET CORE WEB API , EntityFramework, Postgresql, Library AutoMapper, CQRS, DomainEvents
 
 - :zap: In my free time, I solve problems in leetcode and learn something new in programming.
 

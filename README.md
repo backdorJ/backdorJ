@@ -10,7 +10,7 @@
 
 - :zap: In my free time, I solve problems in leetcode and learn something new in programming.
 
-- :mailbox: Contact with me [![channel icon](https://patrolavia.github.io/telegram-badge/follow.png)]([https://t.me/cd_xxx](https://t.me/daammirka))
+- :mailbox: Contact with me [![channel icon](https://patrolavia.github.io/telegram-badge/follow.png)](https://t.me/daammirka)
 
 ### 💻 Technologies:
 
